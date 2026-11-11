@@ -114,8 +114,8 @@ I designed and built the **Betterinu** platform on my own: a student LMS, an emp
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaseeljazc&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&hide=prs_merged_percentage" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaseeljazc&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top languages" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaseeljazc&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&hide=prs_merged_percentage" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaseeljazc&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top languages" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=jaseeljazc&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Contribution streak" />
 
